@@ -1,11 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I’m currently learning back-end software development<br>💬 Ask me about anything related to programming, if i dont know the answer we can always look it up and learn 😉
 
 
-## 🌐 Socials:
+## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrésgalváncutinella/) 
+[![Gmail Badge](https://img.shields.io/badge/-8il.andre@gmail.com-d14836?style=flat&logo=gmail&logoColor=white&link=mailto:8il.andre@gmail.com)](mailto:8il.andre@gmail.com)
 
-# 💻 Technologies:
+# 💻 Technologies
 [comment]: <> (BACK)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
