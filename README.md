@@ -3,7 +3,7 @@
 
 
 ## 🌐 Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrésgalváncutinella/) 
+[![LinkedIn](https://img.shields.io/badge/andresgalvancutinella-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresgalvancutinella/) 
 [![Gmail Badge](https://img.shields.io/badge/-8il.andre@gmail.com-d14836?style=flat&logo=gmail&logoColor=white&link=mailto:8il.andre@gmail.com)](mailto:8il.andre@gmail.com)
 
 # 💻 Technologies
