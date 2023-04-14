@@ -38,18 +38,11 @@ Feel free to take a look at my projects and repositories to see some of my work.
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
 ## 📊 GitHub Stats:
-[![GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndresGalvan05&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-andresgalvan05.vercel.app/api?username=AndresGalvan05&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-andresgalvan05.vercel.app/api?username=AndresGalvan05&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AndresGalvan05&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGalvan05&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGalvan05&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!---
-&count_private=true
-![](https://github-readme-stats.vercel.app/api?username=elhunter05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elhunter05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elhunter05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
+[![Top Langs-Dark](https://github-readme-stats-andresgalvan05.vercel.app/api/top-langs/?username=AndresGalvan05&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-andresgalvan05.vercel.app/api/top-langs/?username=AndresGalvan05&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ---
 <p align="center"> 
   Visitor count:<br>
