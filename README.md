@@ -17,7 +17,7 @@ Feel free to take a look at my projects and repositories to see some of my work.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-006400?style=for-the-badge&logo=swagger&logoColor=white) 
+<!--- ![Swagger](https://img.shields.io/badge/-Swagger-006400?style=for-the-badge&logo=swagger&logoColor=white) -->
 
 [comment]: <> (FRONT)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
