@@ -50,7 +50,7 @@ Feel free to take a look at my projects and repositories to see some of my work.
 ---
 <p align="center"> 
   Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/Elhunter05/count.svg" />
+  <img src="https://profile-counter.glitch.me/AndresGalvan05/count.svg" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
