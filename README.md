@@ -1,5 +1,5 @@
 ## 🍳 About Me
-Hi there! I'm Andrés, a backend developer with a passion for both science and programming.
+Hi there! I'm Andrés, a back-end developer with a passion for both science and programming.
 I love learning new technologies and implementations for my code, and I'm constantly seeking out new challenges and opportunities to grow and develop my skills.
 
 Feel free to take a look at my projects and repositories to see some of my work. If you have any questions or would like to collaborate on a project, feel free to reach out to me. I'm always open to new ideas and opportunities!
