@@ -36,12 +36,13 @@ Feel free to take a look at my projects and repositories to see some of my work.
 ![Selenium](https://img.shields.io/badge/Selenium-006400?style=for-the-badge&logo=selenium&logoColor=white) 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
-
+<!--
 ## 📊 GitHub Stats:
 [![GitHub stats-Dark](https://github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app/api?username=AndresGalvan05&count_private=true&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/AndresGalvan05/github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app/api?username=AndresGalvan05&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs)](https://github.com/AndresGalvan05/github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app#gh-light-mode-only)
 [![Top Langs-Dark](https://github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app/api/top-langs/?username=AndresGalvan05&text_color=fff&title_color=fff&hide_border=true&theme=transparent&layout=compact)](https://github.com/AndresGalvan05/github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app/api/top-langs/?username=AndresGalvan05&hide_border=true&theme=tokyonight&layout=compact)](https://github.com/AndresGalvan05/github-readme-stats-master-eijcb5kw3-andresgalvan05.vercel.app#gh-light-mode-only)
+ -->
 
 <!--
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndresGalvan05&count_private=true&show_icons=true&theme=transparent&text_color=fff&title_color=fff&icon_color=f7c214&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
